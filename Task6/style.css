@@ -1,0 +1,8 @@
+div {
+  height: 20px;
+  border: 1px solid black;
+}
+
+#progress {
+  background: rgb(47, 153, 130);
+}
